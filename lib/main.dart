@@ -1,6 +1,8 @@
 import 'package:flutter/material.dart';
 import 'firstOnbording.dart';
 import 'secondOnbording.dart';
+import 'thirdOnbording.dart';
+import 'media.dart';
 
 void main() => runApp(MyApp());
 
